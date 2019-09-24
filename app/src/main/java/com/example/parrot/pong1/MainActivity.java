@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(pongGame);
     }
 //uyghyhhbniu
+
+    // abcdefg
     // Android Lifecycle functions
     // ----------------------------
 
